@@ -1,2 +1,1 @@
-# course_jenkins
-Jenkins Course
+# Jenkins Course
